@@ -7,7 +7,7 @@ MVC-Framework
 
 I created this framework, to follow
 standard MVC-pattern for 
-APP/Web Development
+APP/Web Development using nodeJS
 
 Main goal of this repo is to support MVC's main goal
 to decouple various components of an application.
