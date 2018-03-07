@@ -12,12 +12,12 @@ class Controller extends Model {
     
     constructor(params) {
         super();
-        this.value = params.value || 'default' 
+        this.value = params.value || 'default'; 
         console.log('Controller is loaded');
     }
 
     saveTransaction(params) {
-        return this.save(params); ;
+        return this.save(params);
     }
         
 }
